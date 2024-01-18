@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "p5.js-svg": "^1.5.1"
+  }
+}
